@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multi-Touch</string>
+    <string name="first_n">First finger</string>
+    <string name="second_n">Second finger</string>
+    <string name="third_n">Third finger</string>
+    <string name="fourth_n">Fourth finger</string>
+    <string name="fifth_n">Fifth finger</string>
+</resources>
